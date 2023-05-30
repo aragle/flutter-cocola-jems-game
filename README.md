@@ -4,7 +4,7 @@ The "Cocola Jems" app is a comprehensive and educational mobile application buil
 
 The James Webb Space Telescope is a joint project of NASA, the European Space Agency (ESA), and the Canadian Space Agency (CSA). It is considered the successor to the Hubble Space Telescope and is set to be launched into space in the near future. The JWST is designed to be a powerful observatory that will provide unprecedented insights into the universe, enabling scientists to study the formation of stars and galaxies, the origins of life, and much more.
 
-# VISUALIZATION 
+## VISUALIZATION
 
 <table align="center">
   <tr>
