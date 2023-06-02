@@ -23,7 +23,15 @@ Build apk files from project:
 
     flutter build apk
 
-
+## Features
+   - Firebase Authentication
+   - Jems Telescope Information (Parts wise)
+   - AR Visualization of Jems Webb Telescope
+   - Puzzle Game (e.g. Space Puzzle)
+   - Quiz
+   - Leaderboard
+   - Space Coin Shop
+    
 ## Screenshot
 
 <table align="center">
