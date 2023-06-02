@@ -5,7 +5,7 @@
 |:--:| 
 | *Main Screeen* |
 
-An educative game built with flutter for "Nasa Space Apps Callange Hackathon, Bangladesh". This application gives a brief overview of James Webb Space Telescope with augmented reality and 3D visualization and also it has some extended features like quiz game, space telescope histories, puzzle games and more.
+An educative game built with flutter for "Nasa Space Apps Callange Hackathon, Bangladesh" that gives a brief overview of James Webb Space Telescope with augmented reality and 3D visualization and also it has some extended features like quiz game, space telescope histories, puzzle games and more.
 
 ## Getting Started
 Step 1:
