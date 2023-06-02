@@ -1,8 +1,11 @@
 #  flutter-cocola-jems-game
 
-![cocola-jems](https://github.com/aratheunseen/flutter-cocola-jems-game/assets/62181222/26eeb1b1-3390-4a68-b209-967058c77cfe)
 
-An educative game built with flutter for "Nasa Space Apps Callange Hackathon, Bangladesh". This application gives a brief overview of James Webb Space Telescope with augmented reality and 3D visualization.
+ ![cocola-jems](https://github.com/aratheunseen/flutter-cocola-jems-game/assets/62181222/26eeb1b1-3390-4a68-b209-967058c77cfe) | 
+|:--:| 
+| *Main Screeen* |
+
+An educative game built with flutter for "Nasa Space Apps Callange Hackathon, Bangladesh". This application gives a brief overview of James Webb Space Telescope with augmented reality and 3D visualization and also it has some extended features like quiz game, space telescope histories, puzzle games and more.
 
 ## Getting Started
 Step 1:
