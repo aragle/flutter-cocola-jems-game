@@ -1,7 +1,7 @@
-#  flutter-cocola-jems-game
+#  flutter-cocola-james-game
 
 
- ![cocola-jems](https://github.com/aratheunseen/flutter-cocola-jems-game/assets/62181222/26eeb1b1-3390-4a68-b209-967058c77cfe) | 
+ ![cocola-james](https://github.com/aratheunseen/flutter-cocola-james-game/assets/62181222/26eeb1b1-3390-4a68-b209-967058c77cfe) | 
 |:--:| 
 | *Main Screeen* |
 
@@ -12,7 +12,7 @@ Step 1:
 
 Download or clone this repo by using the link below:
 
-    git clone https://github.com/aratheunseen/flutter-cocola-jems-game.git
+    git clone https://github.com/aratheunseen/flutter-cocola-james-game.git
 
 Step 2:
 
